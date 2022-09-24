@@ -1,0 +1,30 @@
+.body{
+    background-color: #ff5722d4;
+}
+.haed{
+    color:white;
+}
+p{
+    width: 594px;
+}
+.cord{
+    border-radius: 0px 30px 30px 0px;
+}
+img{
+    border-radius: 0px 45px 45px 0px;
+}
+i{
+    color:#ff5722d4;
+}
+a{
+    width:22px ;
+}
+.footer{
+    background-color: #333333;
+
+   position:relative;
+padding: 5px;
+}
+.span{
+    color: #ffc6b1;
+}
